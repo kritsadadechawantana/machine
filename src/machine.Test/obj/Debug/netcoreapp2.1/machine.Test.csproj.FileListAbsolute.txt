@@ -1,0 +1,17 @@
+/Users/joker/Project/Pilot/machinesln/src/machine.Test/obj/Debug/netcoreapp2.1/machine.Test.csprojAssemblyReference.cache
+/Users/joker/Project/Pilot/machinesln/src/machine.Test/obj/Debug/netcoreapp2.1/machine.Test.csproj.CoreCompileInputs.cache
+/Users/joker/Project/Pilot/machinesln/src/machine.Test/obj/Debug/netcoreapp2.1/machine.Test.AssemblyInfoInputs.cache
+/Users/joker/Project/Pilot/machinesln/src/machine.Test/obj/Debug/netcoreapp2.1/machine.Test.AssemblyInfo.cs
+/Users/joker/Project/Pilot/machinesln/src/machine.Test/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/joker/Project/Pilot/machinesln/src/machine.Test/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/joker/Project/Pilot/machinesln/src/machine.Test/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/joker/Project/Pilot/machinesln/src/machine.Test/bin/Debug/netcoreapp2.1/machine.Test.deps.json
+/Users/joker/Project/Pilot/machinesln/src/machine.Test/bin/Debug/netcoreapp2.1/machine.Test.runtimeconfig.json
+/Users/joker/Project/Pilot/machinesln/src/machine.Test/bin/Debug/netcoreapp2.1/machine.Test.runtimeconfig.dev.json
+/Users/joker/Project/Pilot/machinesln/src/machine.Test/bin/Debug/netcoreapp2.1/machine.Test.dll
+/Users/joker/Project/Pilot/machinesln/src/machine.Test/bin/Debug/netcoreapp2.1/machine.Test.pdb
+/Users/joker/Project/Pilot/machinesln/src/machine.Test/bin/Debug/netcoreapp2.1/machine.dll
+/Users/joker/Project/Pilot/machinesln/src/machine.Test/bin/Debug/netcoreapp2.1/machine.pdb
+/Users/joker/Project/Pilot/machinesln/src/machine.Test/obj/Debug/netcoreapp2.1/machine.Test.csproj.CopyComplete
+/Users/joker/Project/Pilot/machinesln/src/machine.Test/obj/Debug/netcoreapp2.1/machine.Test.dll
+/Users/joker/Project/Pilot/machinesln/src/machine.Test/obj/Debug/netcoreapp2.1/machine.Test.pdb
